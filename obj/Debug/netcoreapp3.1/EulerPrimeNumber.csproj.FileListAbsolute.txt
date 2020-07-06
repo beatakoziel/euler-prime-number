@@ -1,0 +1,12 @@
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.exe
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.deps.json
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.runtimeconfig.json
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.runtimeconfig.dev.json
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.dll
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\bin\Debug\netcoreapp3.1\EulerPrimeNumber.pdb
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.AssemblyInfo.cs
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.dll
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.pdb
+C:\Users\beata\source\repos\EulerPrimeNumber\EulerPrimeNumber\obj\Debug\netcoreapp3.1\EulerPrimeNumber.genruntimeconfig.cache
